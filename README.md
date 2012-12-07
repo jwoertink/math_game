@@ -2,6 +2,10 @@
 
 Since my daughter is having trouble with math, I decided to start building a game to help her. This game is written in [Shoes](http://shoesrb.com/)
 
+
+*Must have shoes installed to run*
+After shoes is installed, just open up the `run.rb` file in shoes.
+
 ## Playing
 
 Currently this game is in a simple state. 
